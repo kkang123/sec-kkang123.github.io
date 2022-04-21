@@ -12,16 +12,18 @@ date: 2022-04-21 18:00:00 +0900
 --------
 - 학번 : 2021208024
 - 이름 : 김지헌
+
+
 # Contact
-이메일: one98kr@naver.com
-깃허브: https://github.com/kkang123
----
+- 이메일: one98kr@naver.com
+- 깃허브: https://github.com/kkang123
+
 
 # **공부중인 언어**
 
-JavaScript
-JSP
-
+- JavaScript
+- JSP
+- SQL
 
 ### **Fork**
 
