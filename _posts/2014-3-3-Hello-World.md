@@ -1,6 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: 자기 소개서
+date: 2022-04-21 18:00:00 +0900
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
